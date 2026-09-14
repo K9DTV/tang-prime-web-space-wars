@@ -1,6 +1,6 @@
-﻿# Space Wars — Tang Primer 20K browser sim
+# Space Wars — Tang Primer 20K browser sim
 
-**Project page:** https://k9dtv.com/project-web-space-wars.html
+**Live on site:** https://k9dtv.com/space-wars-web/
 
 ## Play now (web)
 
