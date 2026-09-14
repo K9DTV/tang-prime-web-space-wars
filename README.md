@@ -1,16 +1,16 @@
-# Space Wars — Tang Primer 20K browser sim
+﻿# Space Wars — Tang Primer 20K browser sim
 
 **Project page:** https://k9dtv.com/project-web-space-wars.html
 
 ## Play now (web)
 
-**[Launch the playable web version](https://k9dtv.com/space-wars-web/)** ([GitHub Pages mirror](https://dogma2u.github.io/tang-prime-web-space-wars/))
+**[Launch the playable web version](https://k9dtv.com/space-wars-web/)** ([GitHub Pages mirror](https://K9DTV.github.io/tang-prime-web-space-wars/))
 
 Open that link to run the game in your browser (no install, no FPGA board). Attract demo starts on load — press **Fire** (`Space` / `K`) for a 1:30 match.
 
 ---
 
-A playable browser port of [dogma2u/Sipeed-Tang-Primer-20k-demo](https://github.com/dogma2u/Sipeed-Tang-Primer-20k-demo): the **Space Wars**-style game that runs on the Sipeed Tang Primer 20K Dock + 5" 800×480 RGB LCD.
+A playable browser port of [K9DTV/space-wars-tang-primer-20k](https://github.com/K9DTV/space-wars-tang-primer-20k): the **Space Wars**-style game that runs on the Sipeed Tang Primer 20K Dock + 5" 800×480 RGB LCD.
 
 This is **not** a Gowin bitstream and not cycle-accurate HDL. It is the same game loop in TypeScript so you can show and play it without the FPGA tools or the board.
 
