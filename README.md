@@ -66,4 +66,4 @@ Vite, React, TypeScript, Tailwind, shadcn/ui `Button`. The playfield is a canvas
 
 ## License
 
-MIT. FPGA HDL remains in the original repo under its own MIT license.
+MIT -- see [LICENSE](LICENSE). FPGA HDL remains in the original repo under its own MIT license.

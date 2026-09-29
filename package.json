@@ -2,6 +2,7 @@
   "name": "tang-primer-space-wars-sim",
   "private": true,
   "version": "1.01.DONE",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0 --port 43127",
